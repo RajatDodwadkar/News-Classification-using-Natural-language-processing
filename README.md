@@ -1,4 +1,4 @@
-# News Classification using Machine Learning 📰🤖
+# News Classification using Natural language processing 📰🤖
 
 Classifies news articles into five categories — **Business**, **Sports**, **Politics**, **Entertainment**, and **Others** — based on the content using machine learning text classification techniques.
 
